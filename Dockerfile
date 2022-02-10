@@ -14,7 +14,7 @@ RUN set -ex; \
         virtualbox \
         python \
         pip \
-        python-pip \
+        python3-pip \
         expect \
         sudo \
         vim \
