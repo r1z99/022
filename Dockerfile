@@ -12,7 +12,7 @@ RUN set -ex; \
         nautilus \
         gedit \
         virtualbox \
-        python2 \
+        python \
         pip \
         python-pip \
         expect \
