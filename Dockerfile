@@ -13,7 +13,6 @@ RUN set -ex; \
         gedit \
         virtualbox \
         python \
-        python2-pip \
         python3-pip \
         expect \
         sudo \
